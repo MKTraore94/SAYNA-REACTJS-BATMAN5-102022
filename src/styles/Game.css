@@ -1,0 +1,73 @@
+#hero_game {
+  background-position: top center;
+  background-image: url(../assets/Illustrations_game/Batgame_1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(130vh - 30px);
+}
+#hero_game .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 60%;
+  padding-top: 140px;
+}
+#hero_game .content .titre {
+  font-family: "rajdhani";
+  font-weight: bold;
+  margin-bottom: 40px;
+  font-weight: bold;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+#hero_game .fleche {
+  display: block;
+  margin: 0 auto;
+  width: 80px;
+  margin-top: 20rem;
+}
+
+.wrapped {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+.wrapped h2 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.wrapped .questions .nombredequestions {
+  margin: 20px 0;
+}
+.wrapped .questions .card-quizz {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: left;
+}
+.wrapped .questions .card-quizz .card-image img {
+  width: 80%;
+}
+.wrapped .questions .card-quizz .question-quizz {
+  margin: 20px 0;
+}
+.wrapped .questions .card-quizz .qcm {
+  background-color: darkgray;
+  margin: 10px;
+  padding: 5px;
+  font-size: 20px;
+}
+.wrapped .btn-game {
+  padding: 40px 0;
+}
+.wrapped .btn-game button {
+  background: linear-gradient(143deg, rgba(121, 120, 118, 0.5), rgba(228, 122, 1, 0.6) 80%);
+  padding: 15px 30px;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.wrapped .btn-game button:hover {
+  background: linear-gradient(143deg, rgb(121, 120, 118), rgb(167, 89, 0) 80%);
+}/*# sourceMappingURL=Game.css.map */

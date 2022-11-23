@@ -1,0 +1,23 @@
+.hero-sign{
+    background-image: url(../assets/bg/bg_3.png);
+    height: 900px;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.formulaire{
+    background: linear-gradient(to right, rgb(18,91,52), rgb(1,9,110));
+    max-width: 50%;
+    padding: 40px;
+    margin: auto;
+    border-radius: 10px;
+    .form{
+        background-color: rgba(122,122,122,0.8);
+        padding: 15px;
+        border-radius: 10px;
+    }
+}
+
+
