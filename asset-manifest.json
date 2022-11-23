@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc91f85f.css",
+    "main.js": "/static/js/main.5edbdcf5.js",
+    "static/media/bg_1.png": "/static/media/bg_1.c57627c3c85d35798283.png",
+    "static/media/bg_3.png": "/static/media/bg_3.a85f4250ef73f710c039.png",
+    "static/media/bg_2.png": "/static/media/bg_2.f3c0ebecae3eae096e9c.png",
+    "static/media/Bathome1.png": "/static/media/Bathome1.a8e679a5930535592061.png",
+    "static/media/Batgame_1.png": "/static/media/Batgame_1.4eb4c5d1a01430227f0e.png",
+    "static/media/Bathome11.png": "/static/media/Bathome11.e016647257a665c00c51.png",
+    "static/media/Bathome_ba2.png": "/static/media/Bathome_ba2.f5e4c33d0a7c836c421f.png",
+    "static/media/Batgame_2.png": "/static/media/Batgame_2.b081ed3ecbc6d9720b3b.png",
+    "static/media/Rajdhani-Medium.ttf": "/static/media/Rajdhani-Medium.69a9f7bccb45c01931a2.ttf",
+    "static/media/Bathome8.png": "/static/media/Bathome8.25642914f74dad1f3c5f.png",
+    "static/media/Bathome9.png": "/static/media/Bathome9.a9ead11aed930ac85930.png",
+    "static/media/Bathome10.png": "/static/media/Bathome10.9de83de23049e3761453.png",
+    "static/media/Bathome2.png": "/static/media/Bathome2.aee50b4d747c4f13fd96.png",
+    "static/media/Bathome7.png": "/static/media/Bathome7.e215b50e6b7001e78345.png",
+    "static/media/Bathome4.png": "/static/media/Bathome4.e06d9d62fd2ab9c147e8.png",
+    "static/media/Bathome5.png": "/static/media/Bathome5.85ab548fc3fe62d8590c.png",
+    "static/media/Bathome3.png": "/static/media/Bathome3.e179854832bc66e2623e.png",
+    "static/media/Bathome6.png": "/static/media/Bathome6.d2ae643fab8f24963849.png",
+    "static/media/SpaceGrotesk-Regular.ttf": "/static/media/SpaceGrotesk-Regular.0af8901c66919168e22b.ttf",
+    "static/media/Bathome_ba1.png": "/static/media/Bathome_ba1.44f098a00fe768272f1a.png",
+    "static/media/Bathome12.png": "/static/media/Bathome12.24acaa45193b86c5efa3.png",
+    "static/media/Batgame_3.png": "/static/media/Batgame_3.9f9167f24445679cb621.png",
+    "static/media/Bathome13.png": "/static/media/Bathome13.53770fbc79fb466de7e5.png",
+    "index.html": "/index.html",
+    "main.fc91f85f.css.map": "/static/css/main.fc91f85f.css.map",
+    "main.5edbdcf5.js.map": "/static/js/main.5edbdcf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc91f85f.css",
+    "static/js/main.5edbdcf5.js"
+  ]
+}
